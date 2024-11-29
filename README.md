@@ -1,7 +1,5 @@
 # PYTHON
-**Data visualization on Udemy course**
-[Project 1:Data visualisation](https://github.com/nafiya1236/data_analytics/blob/main/udemy%20course%20P.ipynb)\
-This project is based on Udemy course.Data was taken from kaggle repository\
-**Machine Learning on Student Performance**
-[Project 2:Machine Learning](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)\
-This project is based on students performance.Data was taken from kaggle repository
+**[Project 1:Data visualization on Udemy course](https://github.com/nafiya1236/data_analytics/blob/main/udemy%20course%20P.ipynb)**\
+This project is used to clean and visualize data effectively, start by removing duplicates and handling missing values to ensure accuracy and consistency. Correct any errors, standardize formats, and normalize values as needed. Address outliers appropriately and transform data to be analysis-ready. For visualization, select appropriate chart types, use clear labels and titles, and employ color wisely to highlight key insights.\
+**[Project 2:Machine Learning on Student Performance](https://github.com/nafiya1236/data_analytics/blob/main/student%20performance%20ML.ipynb)**\
+Student performance project using machine learning is to predict academic outcomes and identify factors that impact student success. By analyzing data such as grades, attendance, and demographic information, the project aims to uncover patterns and insights that can help educators identify at-risk students and tailor interventions to improve their academic performance. The ultimate goal is to enhance educational support and outcomes by providing data-driven recommendations and early warnings based on predictive mode
